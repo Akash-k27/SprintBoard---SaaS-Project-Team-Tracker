@@ -1,0 +1,5 @@
+public_subnet_id = "subnet-0e7a8850f147ad2e0"
+sg_k3s_id        = "sg-0402e496ad9f1407a"
+key_name         = "sb-key"
+public_key_path  = "C:/Users/akash/.ssh/id_ed25519.pub"
+instance_type    = "t3a.small"
