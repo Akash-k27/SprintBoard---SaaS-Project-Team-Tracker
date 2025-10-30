@@ -54,14 +54,6 @@ Manual-first **DevOps & Cloud** project that ships a tiny app (static NGINX page
 
 ---
 
-## ⚠️ Notes
-
-- Keep **secrets out of Git** — later we’ll use SOPS + KMS for encrypted values.
-- Start manual, then add IaC (Terraform + Helm + Argo).
-- AWS Budget alerts recommended: ₹1500 / ₹3000 thresholds.
-- Default region: **ap-south-1 (Mumbai)**.
-
----
 
 ## 🪪 License
 
