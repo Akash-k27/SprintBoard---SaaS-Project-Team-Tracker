@@ -1,1 +1,6 @@
 dist/\n.env\n*.pem\n*.key\n*.tfstate*\n.terraform/\nkubeconfig\n
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.lock.hcl
+*.tfvars
