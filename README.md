@@ -3,7 +3,6 @@ A full-stack project management and team tracking platform deployed on AWS using
 ________________________________________
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build Status](https://github.com/Akash-k27/SprintBoard---SaaS-Project-Team-Tracker/actions/workflows/tf-ci.yml/badge.svg)](https://github.com/Akash-k27/SprintBoard---SaaS-Project-Team-Tracker/actions)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-Deployed-232F3E?logo=amazon-aws)
 ![K3s](https://img.shields.io/badge/Kubernetes-K3s-326CE5?logo=kubernetes)
